@@ -1,4 +1,4 @@
-# @latentminds/pi-quotas
+# @terrydada-art/pi-quotas
 
 Quota monitoring for Pi. Shows remaining usage and rate limits for Anthropic, OpenAI Codex, GitHub Copilot, OpenRouter, Synthetic, Grok, Z.ai, OpenCode Go, Kimi Code, and Ollama Cloud — directly in your Pi session.
 
@@ -15,20 +15,20 @@ Quota monitoring for Pi. Shows remaining usage and rate limits for Anthropic, Op
 **From npm** (recommended):
 
 ```bash
-pi install npm:@latentminds/pi-quotas
+pi install npm:@terrydada-art/pi-quotas
 ```
 
 **From source:**
 
 ```bash
-git clone https://github.com/latentminds-ai/pi-quotas.git
+git clone https://github.com/terrydada-art/pi-quotas.git
 pi install ./pi-quotas
 ```
 
 **Try without installing:**
 
 ```bash
-pi -e npm:@latentminds/pi-quotas
+pi -e npm:@terrydada-art/pi-quotas
 ```
 
 ## Commands
